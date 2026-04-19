@@ -10,25 +10,25 @@ body {
   color: var(--paper-ink);
 }
 
-.web-paper-actions {
+.web-paper-toc-title {
+  align-items: baseline;
   display: flex;
-  gap: 0.75rem;
-  justify-content: center;
-  margin: 1rem auto 1.5rem;
+  gap: 3rem;
+  justify-content: space-between;
 }
 
-.web-paper-action {
-  border: 1px solid var(--paper-line);
-  border-radius: 999px;
-  color: var(--paper-accent);
-  font-size: 0.92rem;
-  padding: 0.45rem 0.9rem;
+.web-paper-toc-link {
+  color: #b42318;
+  flex: 0 0 auto;
+  font-size: 0.94rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
   text-decoration: none;
 }
 
-.web-paper-action:hover,
-.web-paper-action:focus {
-  background: var(--paper-surface);
+.web-paper-toc-link:hover,
+.web-paper-toc-link:focus {
+  text-decoration: underline;
 }
 
 .web-papers-home {
