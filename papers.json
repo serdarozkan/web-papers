@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "scalable-versus-productive-technologies",
+    "title": "Scalable versus Productive Technologies",
+    "seo_title": "Scalable versus Productive Technologies | Returns to Scale, Productivity, and Firm Size",
+    "authors": [
+      "Joachim Hubmer",
+      "Mons Chan",
+      "Serdar Ozkan",
+      "Sergio Salgado",
+      "Guangbin Hong"
+    ],
+    "abstract": "Are larger firms more productive, more scalable, or both? We use firm-level panel data from thirteen countries and employ a broad set of methods to estimate factor elasticities—capturing returns to scale (RTS)—and total factor productivity (TFP). We find substantial RTS heterogeneity within industries, with larger firms exhibiting higher RTS driven by greater intermediate input elasticities. TFP, by contrast, rises with firm size only up to the top decile before declining. The RTS–size gradient primarily reflects persistent, ex-ante differences in production technologies across firms rather than non-homothetic variation along a common production function. Incorporating RTS heterogeneity into a standard model of entrepreneurship more than doubles the efficiency losses from financial frictions compared with a conventional calibration with only TFP differences.",
+    "description": "Are larger firms more productive, more scalable, or both? We use firm-level panel data from thirteen countries and employ a broad set of methods to estimate factor elasticities—capturing returns to scale (RTS)—and total factor productivity (TFP). We find substantial RTS heterogeneity within industries, with larger…",
+    "html_path": "scalable-versus-productive-technologies/",
+    "pdf_path": null,
+    "canonical_url": "https://papers.serdarozkan.me/scalable-versus-productive-technologies/",
+    "pdf_url": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2024/2024-019.pdf",
+    "source_manuscript": "/Users/serdar/Library/CloudStorage/Dropbox/CAN_WEALTH/WRITING/PAPER/CHHOS_2025_v1_SO-manuscript",
+    "updated_at": "2026-04-19T17:59:33+00:00",
+    "author_links": {
+      "joachim hubmer": "mailto:jhubmer@sas.upenn.edu",
+      "mons chan": "mailto:mons.chan@queensu.ca",
+      "sergio salgado": "mailto:ssalgado@wharton.upenn.edu",
+      "guangbin hong": "mailto:honggua2@msu.edu",
+      "serdar ozkan": "https://www.serdarozkan.me"
+    },
+    "author_display": "Joachim Hubmer ⓡ Mons Chan ⓡ Serdar Ozkan ⓡ Sergio Salgado ⓡ Guangbin Hong"
+  }
+]

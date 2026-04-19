@@ -1,0 +1,150 @@
+:root {
+  --paper-accent: #1f4fa3;
+  --paper-ink: #1f2937;
+  --paper-muted: #5f6b7a;
+  --paper-line: #d6dee8;
+  --paper-surface: #f7f9fc;
+}
+
+body {
+  color: var(--paper-ink);
+}
+
+.web-paper-actions {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  margin: 1rem auto 1.5rem;
+}
+
+.web-paper-action {
+  border: 1px solid var(--paper-line);
+  border-radius: 999px;
+  color: var(--paper-accent);
+  font-size: 0.92rem;
+  padding: 0.45rem 0.9rem;
+  text-decoration: none;
+}
+
+.web-paper-action:hover,
+.web-paper-action:focus {
+  background: var(--paper-surface);
+}
+
+.web-papers-home {
+  background: linear-gradient(180deg, #fbfcfe 0%, #f1f5f9 100%);
+  margin: 0;
+}
+
+.web-papers-shell {
+  margin: 0 auto;
+  max-width: 980px;
+  padding: 3rem 1.2rem 4rem;
+}
+
+.web-papers-hero {
+  margin-bottom: 2rem;
+}
+
+.web-papers-eyebrow {
+  color: var(--paper-accent);
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  margin: 0 0 0.6rem;
+  text-transform: uppercase;
+}
+
+.web-papers-eyebrow a,
+.web-papers-owner-link,
+.paper-card-authors a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.web-papers-eyebrow a:hover,
+.web-papers-owner-link:hover,
+.paper-card-authors a:hover,
+.web-papers-eyebrow a:focus,
+.web-papers-owner-link:focus,
+.paper-card-authors a:focus {
+  color: var(--paper-accent);
+  text-decoration: underline;
+}
+
+.web-papers-hero h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.2rem, 5vw, 3.8rem);
+  line-height: 1.05;
+  margin: 0 0 0.8rem;
+}
+
+.web-papers-intro {
+  color: var(--paper-muted);
+  font-size: 1.05rem;
+  line-height: 1.65;
+  margin: 0;
+  max-width: 78ch;
+}
+
+.paper-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.paper-card {
+  background: white;
+  border: 1px solid var(--paper-line);
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);
+  padding: 1.2rem 1.25rem 1.25rem;
+}
+
+.paper-card h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
+  line-height: 1.2;
+  margin: 0 0 0.45rem;
+}
+
+.paper-card h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.paper-card h2 a:hover,
+.paper-card h2 a:focus {
+  color: var(--paper-accent);
+}
+
+.paper-card-authors {
+  color: var(--paper-muted);
+  font-size: 0.94rem;
+  margin: 0 0 0.7rem;
+}
+
+.paper-card-description {
+  line-height: 1.65;
+  margin: 0 0 1rem;
+}
+
+.paper-card-links {
+  display: flex;
+  gap: 0.7rem;
+}
+
+.paper-card-link {
+  background: var(--paper-accent);
+  border-radius: 999px;
+  color: white;
+  display: inline-block;
+  font-size: 0.92rem;
+  padding: 0.5rem 0.9rem;
+  text-decoration: none;
+}
+
+.paper-card-link.secondary {
+  background: transparent;
+  border: 1px solid var(--paper-line);
+  color: var(--paper-accent);
+}
