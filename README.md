@@ -16,4 +16,4 @@ Run the tex-to-web publisher against a rendered manuscript project to refresh bo
 
 Owner homepage: https://www.serdarozkan.me
 
-Public base URL: https://papers.serdarozkan.me
+Public base URL: https://serdarozkan.github.io/web-papers/
