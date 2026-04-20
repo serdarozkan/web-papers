@@ -1,5 +1,28 @@
 [
   {
+    "slug": "housing-and-the-great-inflation",
+    "title": "Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation",
+    "seo_title": "Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation",
+    "authors": [
+      "Aaron Hedlund",
+      "Kieran Larkin",
+      "Kurt Mitman",
+      "Serdar Ozkan"
+    ],
+    "abstract": "This paper examines the impact of mortgage market structures on shaping economic responses to the unprecedented interest rate and inflation dynamics of 2021-2024. We first empirically document that economies with a larger share of variable-rate mortgages exhibit stronger responses in house prices to monetary policy shocks. We then develop and calibrate a structural model of the housing market to demonstrate that these mortgage structures can account for a substantial portion of the divergent house price paths observed across the U.S., Canada, Sweden, and the U.K. during the Great Inflation. Our analysis reveals that early pandemic mortgage rate cuts drove 45% of the U.S. house price boom. Economies dominated by adjustable-rate mortgages (ARMs) show greater price sensitivity to monetary tightening, while fixed-rate mortgage (FRM) regimes exhibit more pronounced path dependence due to a lock-in effect. These dynamics have significant distributional consequences, with low-income homeowners benefiting most from the initial low-rate environment, especially in FRM regimes. Finally, we show that the preferred monetary tightening path is regime-dependent, as a policy counterfactual reveals that FRM-dominant economies benefit more from a shorter and sharper tightening schedule.",
+    "description": "This paper examines the impact of mortgage market structures on shaping economic responses to the unprecedented interest rate and inflation dynamics of 2021-2024. We first empirically document that economies with a larger share of variable-rate mortgages exhibit stronger responses in house prices to monetary policy…",
+    "html_path": "housing-and-the-great-inflation/",
+    "pdf_path": null,
+    "canonical_url": "https://serdarozkan.github.io/web-papers/housing-and-the-great-inflation/",
+    "pdf_url": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2025/2025-016.pdf",
+    "source_manuscript": "/Users/serdar/Library/CloudStorage/Dropbox/Housing and the Great Inflation/Manuscript/HLMO_2025-manuscript",
+    "updated_at": "2026-04-20T21:17:15+00:00",
+    "author_links": {
+      "serdar ozkan": "https://www.serdarozkan.me"
+    },
+    "author_display": "Aaron Hedlund Kieran Larkin Kurt Mitman Serdar Ozkan June 2025"
+  },
+  {
     "slug": "scalable-versus-productive-technologies",
     "title": "Scalable versus Productive Technologies",
     "seo_title": "Scalable versus Productive Technologies | Returns to Scale, Productivity, and Firm Size",
