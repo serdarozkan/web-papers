@@ -28,6 +28,27 @@
     "author_display": "Joachim Hubmer ⓡ Mons Chan ⓡ Serdar Ozkan ⓡ Sergio Salgado ⓡ Guangbin Hong"
   },
   {
+    "slug": "theory-meets-textual-analysis",
+    "title": "Theory Meets Textual Analysis: Measuring Firm-Level Labor Cost Pressures and Inflation Pass-Through",
+    "seo_title": "Theory Meets Textual Analysis: Measuring Firm-Level Labor Cost Pressures and Inflation Pass-Through",
+    "authors": [
+      "Aakash Kalyani",
+      "Serdar Ozkan"
+    ],
+    "abstract": "We develop a novel measure of firm-level marginal labor cost and investigate its inflation pass-through. We apply textual analysis to earnings calls to identify labor discussions. Leveraging cost-minimization theory that firms equate marginal revenue products across variable inputs, we regress intermediate input revenue shares on labor discussion intensity to recover marginal labor cost shocks. This theory-based approach aggregates multidimensional qualitative information into a single measure. Our aggregate index outperforms conventional slack variables in forecasting inflation. Industry-level pass-through to prices is heterogeneous: highest for services, near-zero for manufacturing, where firm-level data reveal automation mitigates labor cost pressures.",
+    "description": "We develop a novel measure of firm-level marginal labor cost and investigate its inflation pass-through. We apply textual analysis to earnings calls to identify labor discussions. Leveraging cost-minimization theory that firms equate marginal revenue products across variable inputs, we regress intermediate input…",
+    "html_path": "theory-meets-textual-analysis/",
+    "pdf_path": null,
+    "canonical_url": "https://serdarozkan.github.io/web-papers/theory-meets-textual-analysis/",
+    "pdf_url": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2025/2025-021.pdf",
+    "source_manuscript": "/Users/serdar/Library/CloudStorage/Dropbox/INF_AUTO/WRITING/AER Submission/MCL_AER-manuscript",
+    "updated_at": "2026-04-20T14:01:13+00:00",
+    "author_links": {
+      "serdar ozkan": "https://www.serdarozkan.me"
+    },
+    "author_display": "Aakash Kalyani 0.2cm 0.2cm Serdar Ozkan -4.5cm"
+  },
+  {
     "slug": "why-are-the-wealthiest-so-wealthy",
     "title": "Why Are the Wealthiest So Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality",
     "seo_title": "Why Are the Wealthiest So Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality",
