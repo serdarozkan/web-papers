@@ -1,5 +1,25 @@
 [
   {
+    "slug": "income-differences-and-health-disparities",
+    "title": "Income Differences and Health Disparities: Roles of Preventive vs. Curative Medicine",
+    "seo_title": "Income Differences and Health Disparities: Roles of Preventive vs. Curative Medicine",
+    "authors": [
+      "Serdar Ozkan"
+    ],
+    "abstract": "I show that while the rich spend more on healthcare early in life, the poor outspend them by 25% from middle to old age in the US. Furthermore, the poor seek medical care less frequently but face higher risks of extreme expenses when they do. I develop a life-cycle model, incorporating physical and preventive health capital, along with features of the US healthcare system. Preventive health capital governs the distribution of health shocks, thereby controlling life expectancy. The model suggests that the rich spend more on preventive care due to lower marginal utility of consumption, resulting in milder health shocks and lower curative expenses in old age. Public insurance– covering large curative expenditures– inadvertently widens the life expectancy gap by hampering the poor’s incentives to invest in preventive health. Policy experiments suggest that expanding insurance coverage and subsidizing preventive care to encourage the poor to use healthcare early in life yield substantial welfare gains.",
+    "description": "I show that while the rich spend more on healthcare early in life, the poor outspend them by 25% from middle to old age in the US. Furthermore, the poor seek medical care less frequently but face higher risks of extreme expenses when they do. I develop a life-cycle model, incorporating physical and preventive health…",
+    "html_path": "income-differences-and-health-disparities/",
+    "pdf_path": null,
+    "canonical_url": "https://serdarozkan.github.io/web-papers/income-differences-and-health-disparities/",
+    "pdf_url": "https://github.com/serdarozkan/papers/blob/master/Ozkan_2024_FINAL.pdf",
+    "source_manuscript": "/Users/serdar/Library/CloudStorage/Dropbox/PUBLISHED/HEALTH/SUBMISSION/MANUSCRIPT/JME-manuscript",
+    "updated_at": "2026-04-20T22:36:51+00:00",
+    "author_links": {
+      "serdar ozkan": "https://www.serdarozkan.me"
+    },
+    "author_display": "Serdar Ozkan"
+  },
+  {
     "slug": "housing-and-the-great-inflation",
     "title": "Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation",
     "seo_title": "Mortgage Market Structure and the Transmission of Monetary Policy During the Great Inflation",
