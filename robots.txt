@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://papers.serdarozkan.me/sitemap.xml
+Sitemap: https://serdarozkan.github.io/web-papers/sitemap.xml
