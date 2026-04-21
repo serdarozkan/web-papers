@@ -1,0 +1,243 @@
+#title-block-header .quarto-title-meta-container {
+  grid-template-columns: 1fr;
+}
+
+#title-block-header .quarto-title-meta {
+  text-align: center;
+}
+
+#title-block-header .quarto-title-meta-heading {
+  display: none;
+}
+
+#title-block-header .quarto-title-meta-contents {
+  overflow-x: auto;
+}
+
+#title-block-header .quarto-title-meta-contents p {
+  margin: 0 auto;
+  display: inline-block;
+  font-size: 0.82rem;
+  max-width: none;
+  text-wrap: nowrap;
+  white-space: nowrap;
+}
+
+#title-block-header .quarto-title-meta-contents p a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#title-block-header .quarto-title-meta-contents p a:hover {
+  text-decoration: underline;
+}
+
+#title-block-header .abstract .tex-to-web-title-date {
+  font-size: 0.92rem;
+  margin-top: 0.55rem;
+}
+
+@media (min-width: 960px) {
+  #title-block-header .quarto-title-meta-contents p {
+    font-size: 0.92rem;
+  }
+
+  .tex-to-web-appendix-authors {
+    font-size: 1rem;
+  }
+}
+
+#TOC .nav-link {
+  border-left: 1px solid transparent;
+}
+
+#TOC .nav-link.active {
+  border-left-color: #3b82f6;
+  color: #3b82f6;
+}
+
+#TOC ul.collapse {
+  display: none;
+}
+
+#TOC ul.collapse.show {
+  display: block;
+}
+
+.tex-to-web-appendix-frontmatter {
+  margin: 2.5rem 0 1.6rem;
+  overflow-x: auto;
+  padding-top: 0.2rem;
+  text-align: center;
+}
+
+.tex-to-web-appendix-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(2rem, 3.2vw, 2.85rem);
+  font-weight: 400;
+  line-height: 1.18;
+  margin: 0 auto 1rem;
+  max-width: 26ch;
+  text-wrap: balance;
+}
+
+.tex-to-web-appendix-authors {
+  display: inline-block;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.92rem;
+  margin: 0 auto;
+  max-width: none;
+}
+
+.tex-to-web-appendix-author-line {
+  margin: 0.2rem 0;
+  text-wrap: nowrap;
+  white-space: nowrap;
+}
+
+.tex-to-web-first-appendix-section {
+  margin-top: 0.2rem;
+}
+
+.tex-to-web-figure-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 0.5rem 0 0.65rem;
+}
+
+.tex-to-web-figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  column-gap: 1rem;
+  row-gap: 0.85rem;
+  margin: 0 auto 0.85rem;
+  width: 100%;
+}
+
+.tex-to-web-figure-panel {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-width: 220px;
+  text-align: center;
+}
+
+.tex-to-web-figure-panel img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: 100%;
+}
+
+.tex-to-web-figure-panel p {
+  margin: 0;
+}
+
+.tex-to-web-single-figure {
+  margin: 0.5rem 0 0.65rem;
+  text-align: center;
+}
+
+.tex-to-web-single-figure img {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.tex-to-web-single-figure p {
+  margin: 0;
+}
+
+.tex-to-web-figure-panel-label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 0;
+}
+
+.tex-to-web-figure-panel-label span {
+  display: block;
+}
+
+.tex-to-web-figure-caption {
+  font-style: italic;
+  margin-top: 0.3rem;
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  .tex-to-web-figure-row {
+    max-width: 100% !important;
+  }
+
+  .tex-to-web-figure-panel {
+    flex-basis: 100% !important;
+    max-width: 100% !important;
+    min-width: 0;
+  }
+
+  .tex-to-web-single-figure img {
+    width: 100% !important;
+  }
+}
+
+.tex-to-web-table-caption {
+  font-style: italic;
+  margin-top: 0.3rem;
+  text-align: center;
+}
+
+table.tabular {
+  border-bottom: 1.35px solid #4b5563;
+  border-collapse: collapse;
+  border-top: 1.35px solid #4b5563;
+  margin: 0 auto;
+  width: auto;
+}
+
+table.tabular td,
+table.tabular th {
+  border: 0;
+  padding: 0.22rem 0.75rem;
+  vertical-align: top;
+}
+
+table.tabular tr:first-child td,
+table.tabular tr:first-child th {
+  border-bottom: 0.85px solid #9ca3af;
+}
+
+table.tabular td:not(.tex-to-web-table-panel),
+table.tabular th {
+  min-width: 3.8rem;
+}
+
+table.tabular td:first-child,
+table.tabular th:first-child {
+  min-width: 9rem;
+}
+
+.tex-to-web-float-note {
+  font-size: 0.88rem;
+  line-height: 1.45;
+  margin: 0.3rem auto 1.1rem;
+  max-width: 60rem;
+  text-align: left;
+}
+
+.tex-to-web-float-note p {
+  margin: 0;
+}
+
+table.tabular td.tex-to-web-table-panel {
+  border-bottom: 1.2px solid #4b5563;
+  border-top: 1.2px solid #4b5563;
+  font-weight: 600;
+  padding: 0.3rem 0.5rem;
+  text-align: center;
+}
