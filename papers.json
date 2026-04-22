@@ -1,5 +1,29 @@
 [
   {
+    "slug": "anatomy-of-lifetime-earnings-inequality",
+    "title": "Anatomy of Lifetime Earnings Inequality: Heterogeneity in Job Ladder Risk vs. Human Capital",
+    "seo_title": "Anatomy of Lifetime Earnings Inequality: Heterogeneity in Job Ladder Risk vs. Human Capital",
+    "authors": [
+      "Serdar Ozkan",
+      "Jae Song",
+      "Fatih Karahan"
+    ],
+    "abstract": "We study the determinants of lifetime earnings (LE) inequality in the U.S. by focusing on latent heterogeneity in job ladder dynamics and on-the-job learning as sources of wage growth differentials. Using administrative data, we find (i) more frequent job switches among lower LE workers, mainly driven by nonemployment spells, (ii) little heterogeneity in average annual earnings growth of job stayers in the bottom two-thirds of the LE distribution, and (iii) an earnings growth for job switchers that rises strongly with LE. We estimate a structural model featuring a rich set of worker types and firm heterogeneity. We find vast differences in ex-ante job ladder risk—job loss, job finding, and contact rates—across workers. These differences account for 75% of the lifetime wage growth differential among the bottom half of the LE distribution. Above the median, almost all lifetime wage growth differences are a result of Pareto-distributed learning ability.",
+    "description": "We study the determinants of lifetime earnings (LE) inequality in the U.S. by focusing on latent heterogeneity in job ladder dynamics and on-the-job learning as sources of wage growth differentials. Using administrative data, we find (i) more frequent job switches among lower LE workers, mainly driven by…",
+    "html_path": "anatomy-of-lifetime-earnings-inequality/",
+    "pdf_path": null,
+    "canonical_url": "https://serdarozkan.github.io/web-papers/anatomy-of-lifetime-earnings-inequality/",
+    "pdf_url": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-002.pdf",
+    "source_manuscript": "/Users/serdar/Library/CloudStorage/Dropbox/PUBLISHED/SEARCH_INEQ/TEXT/FINAL_SUBMISSION/PAPER/FINAL_SUBM-manuscript",
+    "updated_at": "2026-04-22T13:03:44+00:00",
+    "author_links": {
+      "serdar ozkan": "https://www.serdarozkan.me",
+      "jae song": "mailto:jae.song@ssa.gov",
+      "fatih karahan": "mailto:yfkarahan@gmail.com"
+    },
+    "author_display": "Serdar Ozkan; Jae Song; Fatih Karahan"
+  },
+  {
     "slug": "consumption-dynamics-and-welfare-under-non-gaussian-earnings-risk",
     "title": "Consumption Dynamics and Welfare Under Non-Gaussian Earnings Risk",
     "seo_title": "Consumption Dynamics and Welfare Under Non-Gaussian Earnings Risk",
