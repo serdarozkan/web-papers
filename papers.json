@@ -48,6 +48,32 @@
     "author_display": "Fatih Guvenen; Serdar Ozkan; Rocio Madera"
   },
   {
+    "slug": "dissecting-idiosyncratic-earnings-risk",
+    "title": "Dissecting Idiosyncratic Earnings Risk",
+    "seo_title": "Dissecting Idiosyncratic Earnings Risk",
+    "authors": [
+      "Elin Halvorsen",
+      "Hans A. Holter",
+      "Serdar Ozkan",
+      "Kjetil Storesletten"
+    ],
+    "abstract": "This paper examines whether nonlinear and non-Gaussian features of earnings dynamics are caused by hours or hourly wages. Our findings from the Norwegian administrative and survey data are as follows: (i) Nonlinear mean reversion in earnings is driven by the dynamics of hours worked rather than wages since wage dynamics are close to linear, while hours dynamics are nonlinear—negative changes to hours are transitory, while positive changes are persistent. (ii) Large earnings changes are driven equally by hours and wages, whereas small changes are associated mainly with wage shocks. (iii) Both wages and hours contribute to negative skewness and high kurtosis for earnings changes, although hour-wage interactions are quantitatively more important. (iv) When considering household earnings and disposable household income, the deviations from normality are mitigated relative to individual labor earnings: changes in disposable household income are approximately symmetric and less leptokurtic.",
+    "description": "This paper examines whether nonlinear and non-Gaussian features of earnings dynamics are caused by hours or hourly wages. Our findings from the Norwegian administrative and survey data are as follows: (i) Nonlinear mean reversion in earnings is driven by the dynamics of hours worked rather than wages since wage…",
+    "html_path": "dissecting-idiosyncratic-earnings-risk/",
+    "pdf_path": null,
+    "canonical_url": "https://serdarozkan.github.io/web-papers/dissecting-idiosyncratic-earnings-risk/",
+    "pdf_url": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-024.pdf",
+    "source_manuscript": "/Users/serdarozkan/Library/CloudStorage/Dropbox/NORWAY_DATA/DISSECT-RISK/WRITING/FINAL_TEXT/HHOS_formatted-manuscript",
+    "updated_at": "2026-04-23T18:20:38+00:00",
+    "author_links": {
+      "elin halvorsen": "https://www.ssb.no/en/forskning/ansatte/elin-halvorsen",
+      "hans a. holter": "mailto:hansholt@udel.edu",
+      "serdar ozkan": "https://www.serdarozkan.me",
+      "kjetil storesletten": "mailto:kjetil.storesletten@gmail.com"
+    },
+    "author_display": "Elin Halvorsen; Hans A. Holter; Serdar Ozkan; Kjetil Storesletten"
+  },
+  {
     "slug": "income-differences-and-health-disparities",
     "title": "Income Differences and Health Disparities: Roles of Preventive vs. Curative Medicine",
     "seo_title": "Income Differences and Health Disparities: Roles of Preventive vs. Curative Medicine",
