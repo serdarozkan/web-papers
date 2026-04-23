@@ -74,6 +74,30 @@
     "author_display": "Elin Halvorsen; Hans A. Holter; Serdar Ozkan; Kjetil Storesletten"
   },
   {
+    "slug": "earnings-dynamics-and-its-intergenerational-transmission-evidence-from-norway",
+    "title": "Earnings Dynamics and Its Intergenerational Transmission: Evidence from Norway",
+    "seo_title": "Earnings Dynamics and Its Intergenerational Transmission: Evidence from Norway",
+    "authors": [
+      "Elin Halvorsen",
+      "Serdar Ozkan",
+      "Sergio Salgado"
+    ],
+    "abstract": "Using administrative data, we provide an extensive characterization of labor earnings dynamics in Norway. Some of our findings are as follows. (i) Norway has not been immune to the increase in top earnings inequality seen in other countries. (ii) The earnings distribution compresses in the bottom 90% over the life cycle but expands in the top 10%. (iii) The earnings growth distribution is left skewed and leptokurtic, and the extent of these nonnormalities varies with age and past income.",
+    "description": "Using administrative data, we provide an extensive characterization of labor earnings dynamics in Norway. Some of our findings are as follows. (i) Norway has not been immune to the increase in top earnings inequality seen in other countries. (ii) The earnings distribution compresses in the bottom 90% over the life…",
+    "html_path": "earnings-dynamics-and-its-intergenerational-transmission-evidence-from-norway/",
+    "pdf_path": null,
+    "canonical_url": "https://papers.serdarozkan.me/earnings-dynamics-and-its-intergenerational-transmission-evidence-from-norway/",
+    "pdf_url": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2021/2021-015.pdf",
+    "source_manuscript": "/Users/serdarozkan/Library/CloudStorage/Dropbox/PUBLISHED/QE_PROJECT/NORWAY_QE/TEXT/HOS_REVISION/SUBMISSION MAY 11 2022 ALL MATERIAL/HOS_TEX_FIGS/HOS_REV3_SS_v8_NOEXTRAFIGS-manuscript",
+    "updated_at": "2026-04-23T20:22:54+00:00",
+    "author_links": {
+      "elin halvorsen": "mailto:elin.halvorsen@ssb.no",
+      "serdar ozkan": "https://www.serdarozkan.me",
+      "sergio salgado": "https://sergiosalgado.net/"
+    },
+    "author_display": "Elin Halvorsen; Serdar Ozkan; Sergio Salgado"
+  },
+  {
     "slug": "income-differences-and-health-disparities",
     "title": "Income Differences and Health Disparities: Roles of Preventive vs. Curative Medicine",
     "seo_title": "Income Differences and Health Disparities: Roles of Preventive vs. Curative Medicine",
