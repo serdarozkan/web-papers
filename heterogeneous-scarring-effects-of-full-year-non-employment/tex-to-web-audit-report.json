@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-04-25T04:07:17Z",
+  "reference_pdf": "/Users/serdar/Library/CloudStorage/Dropbox/PUBLISHED/SSA-INCOME-RISK/WRITING-SSA-RISK/AER_P&P_Scarring/Submission/Native/Manuscript_GKOS_2017.pdf",
+  "rendered_html": "/Users/serdar/Documents/Github/Web-Papers/heterogeneous-scarring-effects-of-full-year-non-employment/index.html",
+  "clean": true,
+  "finding_count": 0,
+  "findings": [],
+  "browser_audit": {
+    "status": "passed",
+    "browser_path": "/Users/serdar/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-arm64/chrome-headless-shell",
+    "checked_url": "http://127.0.0.1:56852/index.html",
+    "error": ""
+  }
+}

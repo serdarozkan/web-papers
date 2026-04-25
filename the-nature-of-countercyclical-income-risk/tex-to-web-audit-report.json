@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-04-25T05:13:16Z",
+  "reference_pdf": "/Users/serdar/Library/CloudStorage/Dropbox/PUBLISHED/GREAT-RECESSION/WRITING_FATIH/JPE_SUBMIT_JAN2013/FINAL_SUBMISSION/GOS_2013_JPE_FINAL_SUBMISSION.pdf",
+  "rendered_html": "/Users/serdar/Documents/Github/Web-Papers/the-nature-of-countercyclical-income-risk/index.html",
+  "clean": true,
+  "finding_count": 0,
+  "findings": [],
+  "browser_audit": {
+    "status": "passed",
+    "browser_path": "/Users/serdar/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-arm64/chrome-headless-shell",
+    "checked_url": "http://127.0.0.1:58451/index.html",
+    "error": ""
+  }
+}

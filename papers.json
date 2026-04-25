@@ -98,6 +98,32 @@
     "author_display": "Elin Halvorsen; Serdar Ozkan; Sergio Salgado"
   },
   {
+    "slug": "heterogeneous-scarring-effects-of-full-year-non-employment",
+    "title": "Heterogeneous Scarring Effects of Full-Year Non-employment",
+    "seo_title": "Heterogeneous Scarring Effects of Full-Year Non-employment",
+    "authors": [
+      "Fatih Guvenen",
+      "Fatih Karahan",
+      "Serdar Ozkan",
+      "Jae Song"
+    ],
+    "abstract": "",
+    "description": "",
+    "html_path": "heterogeneous-scarring-effects-of-full-year-non-employment/",
+    "pdf_path": null,
+    "canonical_url": "https://papers.serdarozkan.me/heterogeneous-scarring-effects-of-full-year-non-employment/",
+    "pdf_url": "https://papers.serdarozkan.me/assets/GKOS_AERPP_2017.pdf",
+    "source_manuscript": "/Users/serdar/Library/CloudStorage/Dropbox/PUBLISHED/SSA-INCOME-RISK/WRITING-SSA-RISK/AER_P&P_Scarring/Submission/Native/Manuscript_GKOS_2017-manuscript",
+    "updated_at": "2026-04-25T04:07:16+00:00",
+    "author_links": {
+      "fatih guvenen": "mailto:guvenen@umn.edu",
+      "fatih karahan": "mailto:Fatih.Karahan@ny.frb.org",
+      "jae song": "mailto:jae.song@ssa.gov",
+      "serdar ozkan": "https://www.serdarozkan.me"
+    },
+    "author_display": "Fatih Guvenen; Fatih Karahan; Serdar Ozkan; Jae Song"
+  },
+  {
     "slug": "income-differences-and-health-disparities",
     "title": "Income Differences and Health Disparities: Roles of Preventive vs. Curative Medicine",
     "seo_title": "Income Differences and Health Disparities: Roles of Preventive vs. Curative Medicine",
@@ -167,6 +193,30 @@
       "serdar ozkan": "https://www.serdarozkan.me"
     },
     "author_display": "Joachim Hubmer ⓡ Mons Chan ⓡ Serdar Ozkan ⓡ Sergio Salgado ⓡ Guangbin Hong"
+  },
+  {
+    "slug": "the-nature-of-countercyclical-income-risk",
+    "title": "The Nature of Countercyclical Income Risk",
+    "seo_title": "The Nature of Countercyclical Income Risk",
+    "authors": [
+      "Fatih Guvenen",
+      "Serdar Ozkan",
+      "Jae Song"
+    ],
+    "abstract": "This paper studies business cycle variation in individual earnings risk using a unique and confidential dataset from the U.S. Social Security Administration, which contains (uncapped) earnings histories for millions of individuals. We document two sets of results. First, contrary to past research, we find that the variance of idiosyncratic earnings shocks is not countercyclical. Instead, it is the left-skewness of shocks that is strongly countercyclical: during recessions, the upper end of the shock distribution collapses—large upward earnings movements become less likely—whereas the bottom end expands—large drops in earnings become more likely. Thus, while the dispersion of shocks does not increase, shocks become more left skewed and, hence, risky during recessions. Second, we find that the fortunes during recessions are predictable by observable characteristics before the recession. For example, prime-age workers that enter a recession with high earnings suffer substantially less compared with those who enter with low earnings. Finally, the cyclical nature of earnings risk is dramatically different for the top 1% compared with all other individuals—even those in the top 2% to 5%.",
+    "description": "This paper studies business cycle variation in individual earnings risk using a unique and confidential dataset from the U.S. Social Security Administration, which contains (uncapped) earnings histories for millions of individuals. We document two sets of results. First, contrary to past research, we find that the…",
+    "html_path": "the-nature-of-countercyclical-income-risk/",
+    "pdf_path": null,
+    "canonical_url": "https://papers.serdarozkan.me/the-nature-of-countercyclical-income-risk/",
+    "pdf_url": "https://papers.serdarozkan.me/assets/GOS_2013_JPE_WP.pdf",
+    "source_manuscript": "/Users/serdar/Library/CloudStorage/Dropbox/PUBLISHED/GREAT-RECESSION/WRITING_FATIH/JPE_SUBMIT_JAN2013/FINAL_SUBMISSION/GOS_2013_JPE_FINAL_SUBMISSION-manuscript",
+    "updated_at": "2026-04-25T05:13:14+00:00",
+    "author_links": {
+      "fatih guvenen": "mailto:guvenen@umn.edu",
+      "serdar ozkan": "https://www.serdarozkan.me",
+      "jae song": "mailto:jae.song@ssa.gov"
+    },
+    "author_display": "Fatih Guvenen; Serdar Ozkan; Jae Song"
   },
   {
     "slug": "theory-meets-textual-analysis",
