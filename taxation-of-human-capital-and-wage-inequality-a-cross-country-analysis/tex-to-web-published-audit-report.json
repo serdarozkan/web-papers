@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-04-25T14:26:38Z",
+  "reference_pdf": "/Users/serdar/Library/CloudStorage/Dropbox/PUBLISHED/GKO/WRITING_GKO/PAPER-RESTUD/FINAL_SUBMISSION/MS14513manuscript_SO.pdf",
+  "rendered_html": "/Users/serdar/Documents/Github/Web-Papers/taxation-of-human-capital-and-wage-inequality-a-cross-country-analysis/index.html",
+  "clean": true,
+  "finding_count": 0,
+  "findings": [],
+  "browser_audit": {
+    "status": "passed",
+    "browser_path": "/Users/serdar/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-arm64/chrome-headless-shell",
+    "checked_url": "http://127.0.0.1:62395/index.html",
+    "error": ""
+  }
+}
