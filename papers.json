@@ -190,6 +190,32 @@
     "author_display": "Aakash Kalyani 0.2cm 0.2cm Serdar Ozkan -4.5cm"
   },
   {
+    "slug": "what-do-data-on-millions-of-u-s-workers-reveal-about-lifecycle-earnings-dynamics",
+    "title": "What Do Data on Millions of U.S. Workers Reveal about Lifecycle Earnings Dynamics?",
+    "seo_title": "What Do Data on Millions of U.S. Workers Reveal about Lifecycle Earnings Dynamics?",
+    "authors": [
+      "Fatih Guvenen",
+      "Fatih Karahan",
+      "Serdar Ozkan",
+      "Jae Song"
+    ],
+    "abstract": "We study individual male earnings dynamics over the life cycle using panel data on millions of U.S. workers. Using nonparametric methods, we first show that the distribution of earnings changes exhibits substantial deviations from lognormality, such as negative skewness and very high kurtosis. Further, the extent of these non-normalities varies significantly with age and earnings level, peaking around age 50 and between the 70th and 90th percentiles of the earnings distribution. Second, we estimate nonparametric impulse response functions and find important asymmetries: Positive changes for high-income individuals are quite transitory, whereas negative ones are very persistent; the opposite is true for low-income individuals. Third, we turn to long-run outcomes and find substantial heterogeneity in the cumulative growth rates of earnings and the total number of years individuals spend nonemployed between ages 25 and 55. Finally, by targeting these rich sets of moments, we estimate stochastic processes for earnings that range from the simple to the complex. Our preferred specification features normal mixture innovations to both persistent and transitory components and includes state-dependent long-term nonemployment shocks with a realization probability that varies with age and earnings.",
+    "description": "We study individual male earnings dynamics over the life cycle using panel data on millions of U.S. workers. Using nonparametric methods, we first show that the distribution of earnings changes exhibits substantial deviations from lognormality, such as negative skewness and very high kurtosis. Further, the extent of…",
+    "html_path": "what-do-data-on-millions-of-u-s-workers-reveal-about-lifecycle-earnings-dynamics/",
+    "pdf_path": null,
+    "canonical_url": "https://papers.serdarozkan.me/what-do-data-on-millions-of-u-s-workers-reveal-about-lifecycle-earnings-dynamics/",
+    "pdf_url": "https://papers.serdarozkan.me/assets/GKOS_2021.pdf",
+    "source_manuscript": "/Users/serdar/Library/CloudStorage/Dropbox/PUBLISHED/SSA-INCOME-RISK/WRITING-SSA-RISK/ECMA_REV5/SSA-final/GKOS_2021-manuscript",
+    "updated_at": "2026-04-25T01:54:44+00:00",
+    "author_links": {
+      "fatih guvenen": "mailto:guvenen@umn.edu",
+      "fatih karahan": "mailto:fatih.karahan@ny.frb.org",
+      "serdar ozkan": "https://www.serdarozkan.me",
+      "jae song": "mailto:jae.song@ssa.gov"
+    },
+    "author_display": "Fatih Guvenen; Fatih Karahan; Serdar Ozkan; Jae Song"
+  },
+  {
     "slug": "why-are-the-wealthiest-so-wealthy",
     "title": "Why Are the Wealthiest So Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality",
     "seo_title": "Why Are the Wealthiest So Wealthy? New Longitudinal Empirical Evidence and Implications for Theories of Wealth Inequality",
